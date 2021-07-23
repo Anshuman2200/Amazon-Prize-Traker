@@ -15,7 +15,4 @@ Then it will generate a JSON report having all the details containing the **pric
 
     `py tracker.py`
 
-Show some ♥ starring the repo if you liked the scraper.
-
-
 Thank You!
